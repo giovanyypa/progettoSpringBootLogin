@@ -1,0 +1,16 @@
+/home/lascaux/eclipse-workspace/progettoSpringBoot/src/main/java/it/lascaux/academy/progettoSpringBoot/dto/UserRequest.java
+/home/lascaux/eclipse-workspace/progettoSpringBoot/src/main/java/it/lascaux/academy/progettoSpringBoot/repository/UserDao.java
+/home/lascaux/eclipse-workspace/progettoSpringBoot/src/main/java/it/lascaux/academy/progettoSpringBoot/entity/User.java
+/home/lascaux/eclipse-workspace/progettoSpringBoot/src/main/java/it/lascaux/academy/progettoSpringBoot/controller/UserController.java
+/home/lascaux/eclipse-workspace/progettoSpringBoot/src/main/java/it/lascaux/academy/progettoSpringBoot/mapper/RoleMapper.java
+/home/lascaux/eclipse-workspace/progettoSpringBoot/src/main/java/it/lascaux/academy/progettoSpringBoot/dto/RoleDto.java
+/home/lascaux/eclipse-workspace/progettoSpringBoot/src/main/java/it/lascaux/academy/progettoSpringBoot/config/KeycloakSecurityConfig.java
+/home/lascaux/eclipse-workspace/progettoSpringBoot/src/main/java/it/lascaux/academy/progettoSpringBoot/enums/Gender.java
+/home/lascaux/eclipse-workspace/progettoSpringBoot/src/main/java/it/lascaux/academy/progettoSpringBoot/facade/UserFacade.java
+/home/lascaux/eclipse-workspace/progettoSpringBoot/src/main/java/it/lascaux/academy/progettoSpringBoot/utils/JwtTokenUtil.java
+/home/lascaux/eclipse-workspace/progettoSpringBoot/src/main/java/it/lascaux/academy/progettoSpringBoot/service/UserService.java
+/home/lascaux/eclipse-workspace/progettoSpringBoot/src/main/java/it/lascaux/academy/progettoSpringBoot/service/UserServiceImpl.java
+/home/lascaux/eclipse-workspace/progettoSpringBoot/src/main/java/it/lascaux/academy/progettoSpringBoot/entity/Role.java
+/home/lascaux/eclipse-workspace/progettoSpringBoot/src/main/java/it/lascaux/academy/progettoSpringBoot/Application.java
+/home/lascaux/eclipse-workspace/progettoSpringBoot/src/main/java/it/lascaux/academy/progettoSpringBoot/dto/UserDto.java
+/home/lascaux/eclipse-workspace/progettoSpringBoot/src/main/java/it/lascaux/academy/progettoSpringBoot/mapper/UserMapper.java
